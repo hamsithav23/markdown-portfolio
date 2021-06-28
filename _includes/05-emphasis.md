@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hi*
+_Hello!_
+
+**Good Morning**
+__Have a nice day__
+
+_Lets **catch up** on the meeting later_
