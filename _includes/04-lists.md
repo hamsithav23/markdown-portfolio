@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Diet plan
+* Workout plan
+  * HIIT
+  * Cardio
+  * Aerobics
+  * Strength training
